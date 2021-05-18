@@ -19,4 +19,4 @@ Node.js, Javascript, MySQL, Sequelize, Insomnia
 Github Repository:
 [githubRepository]  https://github.com/will98nicholson/ECommerce
 Video Walkthough:
-[videoWalkthough]  
+[videoWalkthough]  https://drive.google.com/file/d/17bW_-B7t_OvXonLwRtpXJDXBDpwo1wzJ/view
