@@ -3,7 +3,7 @@
 
 ## Description
 
-This is program exemplifies back-end data storage elements of an e-commerce platform. Using routes, the user 
+This is a program that exemplifies back-end data storage elements of an e-commerce platform. Using routes, the user 
 can create, update, delete, and access the company's products, product tags, and product categories
 
 ### Technology Used
